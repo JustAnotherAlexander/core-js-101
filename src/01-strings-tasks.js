@@ -238,8 +238,7 @@ function extractEmails(str) {
  *             '└──────────┘\n'
  *
  */
-function getRectangleString(width, height) {
-  
+function getRectangleString(/* width, height */) {
 }
 
 
